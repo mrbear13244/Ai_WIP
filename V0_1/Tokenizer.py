@@ -1,4 +1,4 @@
-import Vocabulary
+from . import Vocabulary
 TokenizationErrored = False
 def Tokenize(UserInput):
     global TokenizationErrored # this is so main.py knows that it errored and doesnt keep going and cause crashes

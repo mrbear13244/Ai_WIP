@@ -1,7 +1,7 @@
-import Vocabulary
-
+from . import Vocabulary
+import os
 def GetPromptType(TokenizedInput):
-    PromptTypeIndicators = {
+    PromptTypeIndicators = {#not used in this version
         "What":"Question",
         "?":"Question"
     }
@@ -24,7 +24,8 @@ def Start(TokenizedInput):
     CurrentAmountOfMatchingWords = 0
     for CurrentWord in range(len(TokenizedInput)):#loop through all the tokenized words
         UnTokenizedWord = Vocabulary.Vocab[TokenizedInput[CurrentWord]]
-        with open("Data.txt", "r") as f:
+        dir = os.path.dirname(__file__)
+        with open(os.path.join(dir, "Data.txt"), "r") as f:
             for line in f:
                 line = line.strip()  # removes \n
                 LineList = line.split()
