@@ -1,0 +1,50 @@
+the sky is blue
+the sky is clear today
+the sky turns orange at sunset
+the grass is green
+the sun is yellow
+the sun is hot
+the moon is white
+the moon comes out at night
+water is blue
+water is clear
+fire is red
+fire is hot
+ice is cold
+ice is white
+snow is white
+snow is cold
+the ocean is deep
+the ocean is blue
+trees are green
+trees are tall
+dogs are friendly
+cats are independent
+birds can fly
+fish live in water
+the earth is round
+the earth orbits the sun
+humans need water to survive
+humans need food to survive
+the heart pumps blood
+the brain controls the body
+hello how are you
+hello i am doing well
+how is your day
+my day is going great
+what are you doing
+i am just an ai
+who are you
+i am an ai assistant
+what is your name
+i do not have a name
+how old are you
+i am an ai i do not have an age
+what is the capital of france
+the capital of france is paris
+what is the capital of the united states
+the capital of the united states is washington dc
+what is two plus two
+two plus two is four
+what is ten times ten
+ten times ten is one hundred
